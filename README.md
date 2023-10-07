@@ -1,7 +1,7 @@
 # Thunder_Zaemons-The-retro-rebirth
  HackForIndia
 
- <img align="center" src="1.png">
+ <img align="center" src="Readme/1.JPG">
  <img align="center" src="2.png">
   <img align="center" src="3.png">
  <img align="center" src="4.png">
